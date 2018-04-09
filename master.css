@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: lightgrey;
+}
+
+.wrapper {
+  border-style: dotted;
+  border-width: 20px;
+}
+
+#heading {
+  font-size: 50px;
+  color: red;
+}
+
+#start {
+  font-size: 30px;
+}
+#bandName {
+  font-size: 24px;
+}
+#band {
+  font-size: 24px;
+
+}
